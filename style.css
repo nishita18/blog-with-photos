@@ -1,0 +1,14 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+body{
+    text-align: center;
+    background: linear-gradient(orange 0% , yellow 100%);
+}
+p{
+    color: darkmagenta;
+}
+h1{
+    color: firebrick
+}
